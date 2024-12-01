@@ -6,6 +6,7 @@ To avoid that, I've used the Context API and the useReducer hook.
 
 ## Installation
 
--Clone the repository and open it in your code editor (I've used Visual Studio Code).
--Install all the modules/dependencies by running npm i
--This project was initially created using Vite, run the project with the command: - npm run dev
+- Clone the repository and open it in your code editor (I've used Visual Studio Code).
+- Install all the modules/dependencies by running `npm i`.
+- This project was initially created using Vite. Run the project with the command:  
+  `npm run dev`.
